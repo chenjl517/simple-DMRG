@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f2927d0c-902f-4900-9791-1873da9f118d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dipkSrd3gdKS8vE1ABbbxKfEDF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.debugger.python" />
+  </component>
+  <component name="PyDebuggerOptionsProvider">
+    <option name="mySupportGeventDebugging" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.弦振动">
+    <configuration name="弦振动" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dmrg" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../计算物理" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../计算物理/弦振动.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="dmrg" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dmrg" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dmrg" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dmrg.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="itebd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dmrg" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../张量网络-科研训练/itebd/选做2-itebd" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../张量网络-科研训练/itebd/选做2-itebd/itebd.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dmrg" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../张量网络-科研训练/itebd/选做2-itebd" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../张量网络-科研训练/itebd/选做2-itebd/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.弦振动" />
+        <item itemvalue="Python.dmrg" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.itebd" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2927d0c-902f-4900-9791-1873da9f118d" name="Default Changelist" comment="" />
+      <created>1592917911058</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592917911058</updated>
+      <workItem from="1592917914019" duration="9129000" />
+      <workItem from="1593010707000" duration="7827000" />
+      <workItem from="1593090101902" duration="10370000" />
+      <workItem from="1593318487648" duration="1197000" />
+      <workItem from="1593333276263" duration="824000" />
+      <workItem from="1593353454680" duration="29000" />
+      <workItem from="1593485922077" duration="1657000" />
+      <workItem from="1593508214490" duration="1575000" />
+      <workItem from="1593692726785" duration="143000" />
+      <workItem from="1593840785102" duration="170000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="446" y="229" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592917931129">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="446" y="229" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1592917931129" />
+    <state x="494" y="65" key="#dmrg" timestamp="1592926375341">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="494" y="65" key="#dmrg/0.0.1536.834@0.0.1536.834" timestamp="1592926375341" />
+    <state x="542" y="175" key="FileChooserDialogImpl" timestamp="1593496226281">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="542" y="175" key="FileChooserDialogImpl/0.0.1536.834/1920.0.1080.1890@0.0.1536.834" timestamp="1593496226281" />
+    <state width="1495" height="223" key="GridCell.Tab.0.bottom" timestamp="1593693695519">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1495" height="410" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1080.1890@0.0.1536.834" timestamp="1593318902116" />
+    <state width="1495" height="223" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1593693695519" />
+    <state width="1495" height="223" key="GridCell.Tab.0.center" timestamp="1593693695519">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1495" height="410" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1080.1890@0.0.1536.834" timestamp="1593318902114" />
+    <state width="1495" height="223" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1593693695519" />
+    <state width="1495" height="223" key="GridCell.Tab.0.left" timestamp="1593693695519">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1495" height="410" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1080.1890@0.0.1536.834" timestamp="1593318902114" />
+    <state width="1495" height="223" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1593693695519" />
+    <state width="1495" height="223" key="GridCell.Tab.0.right" timestamp="1593693695519">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1495" height="410" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1080.1890@0.0.1536.834" timestamp="1593318902115" />
+    <state width="1495" height="223" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1593693695519" />
+    <state width="1495" height="266" key="GridCell.Tab.1.bottom" timestamp="1593017104432">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1495" height="266" key="GridCell.Tab.1.bottom/0.0.1536.834/1920.0.1080.1890@0.0.1536.834" timestamp="1593017104432" />
+    <state width="1495" height="266" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1592927302899" />
+    <state width="1495" height="266" key="GridCell.Tab.1.center" timestamp="1593017104432">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1495" height="266" key="GridCell.Tab.1.center/0.0.1536.834/1920.0.1080.1890@0.0.1536.834" timestamp="1593017104432" />
+    <state width="1495" height="266" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1592927302898" />
+    <state width="1495" height="266" key="GridCell.Tab.1.left" timestamp="1593017104432">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1495" height="266" key="GridCell.Tab.1.left/0.0.1536.834/1920.0.1080.1890@0.0.1536.834" timestamp="1593017104432" />
+    <state width="1495" height="266" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1592927302898" />
+    <state width="1495" height="266" key="GridCell.Tab.1.right" timestamp="1593017104432">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1495" height="266" key="GridCell.Tab.1.right/0.0.1536.834/1920.0.1080.1890@0.0.1536.834" timestamp="1593017104432" />
+    <state width="1495" height="266" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1592927302899" />
+    <state x="430" y="245" key="com.intellij.ide.util.TipDialog" timestamp="1593840785684">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="430" y="245" key="com.intellij.ide.util.TipDialog/0.0.1536.834/1920.0.1080.1890@0.0.1536.834" timestamp="1593840785684" />
+    <state x="430" y="245" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1593692748974" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/dmrg$dmrg.coverage" NAME="dmrg Coverage Results" MODIFIED="1593692791266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
